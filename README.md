@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho muitos projetos prontos, e estou desenvolvendo um projeto pessoal no momento. <br>Sempre procuro me atualizar com novas tecnologias, novas linguagens e novos frameWorks,<br><br>"Sempre em movimento para não perder o equilíbrio"<br><br>À procura de uma vaga FullStack ou Front-end, aberto a propostas.
+Tabalho como dev full stack na JSMX.<br>Sempre procuro me atualizar com novas tecnologias, novas linguagens e novos frameWorks,<br><br>"Sempre em movimento para não perder o equilíbrio"<br><br>À procura de uma vaga FullStack ou Front-end, aberto a propostas.
 
 
 ## 🌐 Socials:
