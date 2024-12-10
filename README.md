@@ -1,5 +1,7 @@
 # 💫 About Me:
-Devenvolvedor Full Stack - React/Node<br><br>Sempre procuro me atualizar com novas tecnologias, novas linguagens e novos frameWorks,<br><br>"Sempre em movimento para não perder o equilíbrio"<br>
+Devenvolvedor Full Stack - React/Node<br><br>Desenvolvedor Full Stack focado em criar soluções inovadoras e escaláveis. Tenho paixão por resolver problemas complexos e entregar produtos de alta qualidade. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional.
+
+<br><br>"Sempre em movimento para não perder o equilíbrio"<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](Silvestre Daufenbach Jr#0136) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvestre-d-junior/) 
