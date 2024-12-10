@@ -3,7 +3,7 @@ Devenvolvedor Full Stack - React/Node<br><br>Desenvolvedor Full Stack focado em 
 
 <br><br>"Sempre em movimento para não perder o equilíbrio"<br>
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](Silvestre Daufenbach Jr#0136) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvestre-d-junior/) 
 
 # 💻 Tech Stack:
